@@ -140,6 +140,6 @@ jupyter notebook medical_text_disease_classification.ipynb
 > **IMPORTANT NOTICE**: VyadhiDrishti AI is strictly an **academic research prototype** developed for educational and experimental evaluation. It is **NOT** a certified clinical diagnostic medical device and must **NEVER** replace clinical evaluations, diagnostic laboratory testing, or physician judgment.
 
 ## TEAM MEMBERS:
-**Parshav Shah (202302626010119)**
-**Dhruvi Patel (202302626010049)**
+**Parshav Shah (202302626010119)**,
+**Dhruvi Patel (202302626010049)**,
 **Arya Doshi (202302626010019)**
