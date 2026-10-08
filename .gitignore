@@ -1,0 +1,15 @@
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary inference files
+temp_uploaded_prescription.png
+
+# Environment
+.env
+venv/
+.venv/
